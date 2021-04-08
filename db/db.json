@@ -1,0 +1,73 @@
+{
+  "login": [
+    {
+      "name": "Anshul",
+      "password": "an123"
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "Pizza Hut",
+      "address": "South West Delhi",
+      "id": 1,
+      "Email": "abc@gmail.com",
+      "Rating": "5.0"
+    },
+    {
+      "id": 2,
+      "name": "Dominos",
+      "address": "Sector 5",
+      "Rating": "4.8",
+      "Email": "Dominos@gmail.com"
+    },
+    {
+      "id": "4",
+      "name": "KFC",
+      "address": "Dwarka",
+      "Rating": "4.9",
+      "Email": "KFC@gmail.com"
+    },
+    {
+      "id": "5",
+      "name": "Costa Coffee",
+      "address": "Mahipalpur",
+      "Rating": "5.0",
+      "Email": "CC@gmail.com"
+    },
+    {
+      "id": "6",
+      "name": "Haldiram",
+      "address": "South Delhi",
+      "Rating": "5.1",
+      "Email": "Haldiram@gmail.com"
+    },
+    {
+      "name": "Amrik Sukhdev",
+      "address": "Panipath",
+      "id": "WMBAwG4",
+      "Email": "as@gmail.com",
+      "Rating": "4.0"
+    },
+    {
+      "name": "Brij Sweets",
+      "address": "Goyla Vihar",
+      "Email": "Bs@gmail.com",
+      "Rating": "3.9",
+      "id": "rMzT3f6"
+    },
+    {
+      "name": "Rampal Da Dhaba",
+      "address": "Goyla Dairy",
+      "Email": "rdd@gmail.com",
+      "Rating": "9.6",
+      "id": "FsWOhyN"
+    },
+    {
+      "name": "Golu dhaba",
+      "address": "goyla dairy",
+      "Email": "g@gmail.com",
+      "Rating": "6.5",
+      "id": "0CLWivq"
+    }
+  ]
+}
